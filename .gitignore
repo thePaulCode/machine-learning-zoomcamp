@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Csv file:
+courseid_39157_participants.csv
+02-regression/data/courseid_39157_participants.csv
+02-regression/data/users.csv
